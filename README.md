@@ -23,3 +23,8 @@ Four spaces, because python.
 ### set softtabstop=4
 
 This is good too, I guess.
+
+
+## Bonus: PRU Assembler (PASM) syntax hilighting files 
+... in directories `ftdetect` and `syntax`.  Copy those dirs to 
+~/.vim or their contents to their counterparts in /usr/share/vim/vim80.
